@@ -11,7 +11,7 @@
         <tags>select  selection  Bootstrap  Bootstrap5  Datatables jQuery table</tags>
         <dependencies>
             <dependency id="datatables.net-select" version=">=1.3.3"/>
-            <dependency id="datatables.net-bs5" version=">=1.10.24"/>
+            <dependency id="datatables.net-bs5" version=">=1.10.26-dev"/>
         </dependencies>
         <contentFiles>
             <files include="**/*" buildAction="Content"/>
