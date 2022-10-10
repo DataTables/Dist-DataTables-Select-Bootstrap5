@@ -2,12 +2,14 @@
     "name": "datatables.net-select-bs5",
     "description": "Select for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/select.bootstrap5.js",
+    "module": "js/select.bootstrap5.mjs",
     "style": "css/select.bootstrap5.css",
     "types": "./types/select.bootstrap5.d.ts",
     "version": "1.4.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
