@@ -4,7 +4,7 @@
     "main": "js/select.bootstrap5.js",
     "module": "js/select.bootstrap5.mjs",
     "style": "css/select.bootstrap5.css",
-    "types": "./types/select.bootstrap5.d.ts",
+    "types": "./types/types.d.ts",
     "version": "1.4.0",
     "files": [
         "css/**/*.css",

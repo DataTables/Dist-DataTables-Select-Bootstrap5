@@ -10,7 +10,8 @@
         "css/select.bootstrap5.min.css"
     ],
     "types": [
-        "types/select.bootstrap5.d.ts"
+        "types/select.bootstrap5.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/Select",
     "last-tag": "1.4.0"
