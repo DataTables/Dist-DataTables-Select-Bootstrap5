@@ -5,7 +5,7 @@
     "module": "js/select.bootstrap5.mjs",
     "style": "css/select.bootstrap5.css",
     "types": "./types/select.bootstrap5.d.ts",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,9 +14,9 @@
     ],
     "keywords": [
         "select",
- "selection",
+        "selection",
         "Bootstrap",
- "Bootstrap5",
+        "Bootstrap5",
         "Datatables",
         "jQuery",
         "table",
