@@ -53,6 +53,8 @@ var DataTable = $.fn.dataTable;
 
 
 
+DataTable.select.classes.checkbox = 'form-check-input';
+
 
 return DataTable;
 }));

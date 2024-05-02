@@ -10,5 +10,7 @@ import select from 'datatables.net-select';
 let $ = jQuery;
 
 
+DataTable.select.classes.checkbox = 'form-check-input';
+
 
 export default DataTable;
