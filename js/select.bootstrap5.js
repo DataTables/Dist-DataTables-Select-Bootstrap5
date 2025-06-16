@@ -53,7 +53,7 @@ var DataTable = $.fn.dataTable;
 
 
 
-DataTable.select.classes.checkbox = 'form-check-input';
+DataTable.select.classes.checkbox = 'form-check-input dt-select-checkbox';
 
 
 return DataTable;
