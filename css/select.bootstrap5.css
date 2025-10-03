@@ -8,14 +8,13 @@ div.dt-container span.select-item {
   margin-left: 0.5em;
 }
 
-table.dataTable.table-sm tbody td.select-checkbox::before {
-  margin-top: -9px;
-}
-
 @media screen and (max-width: 640px) {
   div.dt-container span.select-info,
   div.dt-container span.select-item {
     margin-left: 0;
     display: block;
   }
+}
+table.dataTable.table-sm tbody td.select-checkbox::before {
+  margin-top: -9px;
 }
