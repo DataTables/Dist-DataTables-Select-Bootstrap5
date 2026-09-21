@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-select-bs5",
-    "description": "Select for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
+    "description": "Select for DataTables with styling for Bootstrap5",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-Select-Bootstrap5"
